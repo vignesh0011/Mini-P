@@ -23,8 +23,7 @@ The proposed system consists of five main stages:
 
 ## Project Architecture:
 
-![image](https://github.com/vignesh0011/Miniproject/assets/53014593/fd0e1882-7623-43b5-88b6-17fde6b4bda6)
-
+![image](https://github.com/vignesh0011/Mini-P/assets/53014593/48692abb-ef44-410c-a98e-81245b00d9b9)
 
 ### Output:
 
